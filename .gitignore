@@ -1,0 +1,3 @@
+#dont' track this file
+node_modules
+.env
